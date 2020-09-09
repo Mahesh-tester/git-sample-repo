@@ -1,6 +1,6 @@
 git status--> Prints the status of git repository
-git init
-git config
+git init-->Initilize the git repository
+git config-->global user.name "Lets Kode it"
 git add
 git commit
 git log
